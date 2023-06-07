@@ -7,16 +7,13 @@ Anagrams are words that have the same characters but in a different order.
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Leetcode](https://leetcode.com/B171406/)
+ - [Geek for Geeks]([https://github.com/matiassingers/awesome-readme](https://auth.geeksforgeeks.org/user/naveenpaezm5/practice))
+ - [Hacker rank](https://www.hackerrank.com/naveenpallepu06)
 
 
 ## Appendix
-
-Any additional information goes here
-
-
+This anagram Problem is very usefull to identify the logical thinking of coders
 ## Tech Stack
 
 **Data structures:** HashMap, HashSet, ArrayList
