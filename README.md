@@ -60,6 +60,8 @@ intialize the another variable named as j and that variable start from i+1 to n(
 ## Screenshots
 
 ![App Screenshot](https://www.instagram.com/p/Cfd4cVyv9yS/?igshid=NTc4MTIwNjQ2YQ== )
+![code](https://github.com/B171406/Anagram/assets/119347640/8d51ab05-62c6-4a47-a631-2f63c3694a59)
+
 ## Another approache
 **step 1:**
 
