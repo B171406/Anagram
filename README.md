@@ -21,11 +21,8 @@ This anagram Problem is very usefull to identify the logical thinking of coders
 **programming languages:** Java
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
+## Problem statement
+![prob](https://github.com/B171406/Anagram/assets/119347640/30e9e176-9424-4ce5-9c91-fe727bebb14d)
 ## Demo
 
 Insert gif or link to demo
@@ -48,20 +45,7 @@ intialize the another variable named as j and that variable start from i+1 to n(
 
 **TC:** O(n2)
 
-**SC:**
-
-
-
-## Screenshots
-
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://www.loom.com/share/cbd736dfbc524ab6bb6e625224823caa) )
-
-
-## Screenshots
-
-![App Screenshot](https://www.instagram.com/p/Cfd4cVyv9yS/?igshid=NTc4MTIwNjQ2YQ== )
-![code](https://github.com/B171406/Anagram/assets/119347640/8d51ab05-62c6-4a47-a631-2f63c3694a59)
-
+**SC:** o(n)
 ## Another approache
 **step 1:**
 
@@ -157,3 +141,4 @@ k = length of string
 **Space complexity**:
 
  O( n ) , size of map
+ ![code](https://github.com/B171406/Anagram/assets/119347640/8d51ab05-62c6-4a47-a631-2f63c3694a59)
