@@ -54,7 +54,7 @@ intialize the another variable named as j and that variable start from i+1 to n(
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here )
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://www.loom.com/share/cbd736dfbc524ab6bb6e625224823caa) )
 
 
 ## Screenshots
