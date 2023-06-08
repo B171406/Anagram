@@ -142,7 +142,9 @@ k = length of string
 
  O( n ) , size of map
  ![coooo](https://github.com/B171406/Anagram/assets/119347640/f4d4ebc6-be02-4371-8a57-cdcde941fb0a)
- ##output
+ 
+## OUTPUT
+ 
  ![output](https://github.com/B171406/Anagram/assets/119347640/aa5e0518-d9e2-42bc-8ab8-5cd641493aa1)
 
- ##THANK YOU
+ ## THANK YOU
