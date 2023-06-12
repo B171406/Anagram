@@ -97,6 +97,9 @@ k = length of string
 **Space complexity**:
 
  O( n ) , size of map
+ 
+ ![k](https://github.com/B171406/Anagram/assets/119347640/ef404d48-4f56-4f03-9af1-e5198db07cf0)
+
 ## Final Approach
 
 **step 1:**
