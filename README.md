@@ -8,7 +8,7 @@ Anagrams are words that have the same characters but in a different order.
 ## Acknowledgements
 
  - [Leetcode](https://leetcode.com/B171406/)
- - [Geek for Geeks]((https://auth.geeksforgeeks.org/user/naveenpaezm5/practice))
+ - [Geek for Geeks](https://auth.geeksforgeeks.org/user/naveenpaezm5/practice)
  - [Hacker rank](https://www.hackerrank.com/naveenpallepu06)
 
 
