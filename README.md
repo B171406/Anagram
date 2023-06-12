@@ -150,7 +150,8 @@ k = length of string
  
  ![output](https://github.com/B171406/Anagram/assets/119347640/aa5e0518-d9e2-42bc-8ab8-5cd641493aa1)
 
- ##Contains duplicate values
+ ## Contains duplicate values
+ 
  **Input:**
  
 
